@@ -1,0 +1,20 @@
+.homepage-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.playersCon {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.players-con {
+    background-color: aqua;
+    flex: 1;
+}
+
+.favorites-con {
+    flex: 1;
+    background-color: aquamarine;
+}
